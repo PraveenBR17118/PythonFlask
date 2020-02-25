@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/praveen/Documents/VisualStudio/Python/Flask/env/bin/python3",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint-flask"]
+}
